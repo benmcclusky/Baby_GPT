@@ -1,6 +1,8 @@
 # Baby_GPT
 Miniature GPT (10.7m parameters) optimised for training on CPU's based on Andrej Karpathy's [NanoGPT](https://github.com/karpathy/nanoGPT)
 
+Primarily used for developing my personal knowledge of transformers and how they are trained in practice, contains detailed annotation on the model architecture and training process. People with a very basic knowledge of Python and transformers should be able to understand the workflow
+
 Currently trains on a 1m token dataset of Shakespere text (see sample below)
 
 ![image](https://github.com/benmcclusky/Baby_GPT/assets/121236905/92c24a42-beb6-46f2-8d80-09fdd272aed1)
