@@ -1,5 +1,5 @@
 # Baby_GPT
-Miniature GPT (10.7m parameters) optimised for training on CPU's based on Andrej Karpathy's [NanoGPT]([https://www.google.com](https://github.com/karpathy/nanoGPT)https://github.com/karpathy/nanoGPT "NanoGPT")
+Miniature GPT (10.7m parameters) optimised for training on CPU's based on Andrej Karpathy's [NanoGPT](https://github.com/karpathy/nanoGPT)
 
 Currently trains on a 1m token dataset of Shakespere text (see sample below)
 
